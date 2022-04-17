@@ -1,2 +1,1 @@
-# gitStarted
-First Repo
+Automating AWS with Terraform
